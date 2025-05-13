@@ -11,6 +11,10 @@
 	<groupId>com.Ecomarket</groupId>
 	<artifactId>Ecomark</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<modules>
+		<module>usuarios</module>
+	</modules>
 	<name>Ecomark</name>
 	<description>Proyecto evaluación 2 </description>
 	<url/>
