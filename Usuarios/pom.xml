@@ -8,15 +8,11 @@
 		<version>3.3.11</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.Ecomarket</groupId>
-	<artifactId>Ecomark</artifactId>
+	<groupId>com.usuarios</groupId>
+	<artifactId>Usuarios</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>pom</packaging>
-	<modules>
-		<module>usuarios</module>
-	</modules>
-	<name>Ecomark</name>
-	<description>Proyecto evaluación 2 </description>
+	<name>Usuarios</name>
+	<description>Microservicio Gestión de Usuarios</description>
 	<url/>
 	<licenses>
 		<license/>
